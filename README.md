@@ -24,8 +24,7 @@ Artificial intelligence
   <a href="https://github.com/Navilkanth/StockbuddyX">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=StockbuddyX&theme=radical" alt="StockBuddyX Repo Card" />
   </a>
-  <a href="https://github.com/Navilkanth/StudyHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=StudyHub&theme=radical" alt="StudyHub Repo Card" />
+  <a 
   </a>
 </p>
 
