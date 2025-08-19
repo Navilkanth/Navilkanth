@@ -16,7 +16,7 @@ I love combining clean UI designs with powerful backend logic to deliver impactf
 
 ## 🛠 Skills & Technologies
 Java · Spring Boot · Python · React · PostgreSQL · Machine Learning
-
+Artificial intelligence 
 ---
 
 ## 📌 Featured Projects
