@@ -7,10 +7,9 @@
 
 ## 🚀 About Me
 <p align="center">
-I’m a <b>Full-Stack Developer (Backend-Focused)</b> specializing in  
-<b>Java, Spring Boot, and scalable web systems</b>.  
-I build <b>real-time, data-driven applications</b> with clean architecture and optimized performance.  
-Passionate about <b>system design, backend engineering, and solving real-world problems</b>.
+I’m a <b>Full-Stack Developer</b> and <b>AI/ML Enthusiast</b> passionate about building  
+<b>real-time applications</b> and <b>intelligent systems</b>.  
+I focus on combining <b>machine learning</b> with <b>scalable web technologies</b> to solve real-world problems.
 </p>
 
 ---
@@ -18,7 +17,7 @@ Passionate about <b>system design, backend engineering, and solving real-world p
 ## ⚡ Tech Stack
 
 **Languages:**  
-Java · JavaScript · Python · C++  
+Java · JavaScript · Python ·  
 
 **Frontend:**  
 React · HTML · CSS  
@@ -30,7 +29,7 @@ Spring Boot · Node.js · Express.js
 PostgreSQL · MongoDB  
 
 **Core Concepts:**  
-REST APIs · System Design · OOP · Data Structures  
+REST APIs · System Design · OOP · Data Structures · Machine Learning  
 
 ---
 
@@ -38,16 +37,12 @@ REST APIs · System Design · OOP · Data Structures
 
 <p align="center">
 
-<a href="https://github.com/Navilkanth/StockBuddyX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=StockBuddyX&theme=radical" />
+<a href="https://github.com/Navilkanth/StockbuddyX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=StockbuddyX&theme=radical" />
 </a>
 
-<a href="https://github.com/Navilkanth/AutoFormAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=AutoFormAI&theme=radical" />
-</a>
-
-<a href="https://github.com/Navilkanth/ML-Prediction-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=ML-Prediction-System&theme=radical" />
+<a href="https://github.com/Navilkanth/AI-blood-group-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=AI-blood-group-detection&theme=radical" />
 </a>
 
 </p>
@@ -56,9 +51,8 @@ REST APIs · System Design · OOP · Data Structures
 
 ## 🔥 Project Highlights
 
-- 📈 Built **StockBuddyX** handling real-time stock data (**1000+ data points, <300ms latency**)  
-- 🤖 Developed **AutoFormAI** reducing manual input effort by **60–70%**  
-- 🧠 Created ML system with **85–92% prediction accuracy**  
+- 📈 Built **StockBuddyX** – real-time stock tracking system with optimized API performance  
+- 🧠 Developed **AI Blood Group Detection System** using machine learning, computer vision, and multi-stage validation  
 
 ---
 
@@ -82,15 +76,15 @@ REST APIs · System Design · OOP · Data Structures
 ## 🏆 Achievements
 
 - 🏆 Secured **3rd Prize** in Project Expo for *EduGen AI*  
-- 🚀 Recognized for **scalable system design & real-world problem-solving**  
+- 🚀 Recognized for **real-world problem solving and scalable system design**  
 
 ---
 
 ## 📈 Currently Learning
 
+- Advanced Machine Learning  
+- System Design  
 - Microservices Architecture  
-- Advanced System Design  
-- DSA for Product Companies  
 
 ---
 
