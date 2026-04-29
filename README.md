@@ -7,55 +7,98 @@
 
 ## 🚀 About Me
 <p align="center">
-I’m a <b>Full-Stack Java Developer</b> and <b>AI Enthusiast</b> passionate about building  
-<b>data-driven applications</b> and <b>intelligent web solutions</b>.  
-I love combining clean UI designs with powerful backend logic to deliver impactful products.
+I’m a <b>Full-Stack Developer (Backend-Focused)</b> specializing in  
+<b>Java, Spring Boot, and scalable web systems</b>.  
+I build <b>real-time, data-driven applications</b> with clean architecture and optimized performance.  
+Passionate about <b>system design, backend engineering, and solving real-world problems</b>.
 </p>
 
 ---
 
-## 🛠 Skills & Technologies
-Java · Spring Boot · Python · React · PostgreSQL · Machine Learning
-Artificial intelligence 
+## ⚡ Tech Stack
+
+**Languages:**  
+Java · JavaScript · Python · C++  
+
+**Frontend:**  
+React · HTML · CSS  
+
+**Backend:**  
+Spring Boot · Node.js · Express.js  
+
+**Database:**  
+PostgreSQL · MongoDB  
+
+**Core Concepts:**  
+REST APIs · System Design · OOP · Data Structures  
+
 ---
 
 ## 📌 Featured Projects
+
 <p align="center">
-  <a href="https://github.com/Navilkanth/StockbuddyX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=StockbuddyX&theme=radical" alt="StockBuddyX Repo Card" />
-  </a>
-  <a 
-  </a>
+
+<a href="https://github.com/Navilkanth/StockBuddyX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=StockBuddyX&theme=radical" />
+</a>
+
+<a href="https://github.com/Navilkanth/AutoFormAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=AutoFormAI&theme=radical" />
+</a>
+
+<a href="https://github.com/Navilkanth/ML-Prediction-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navilkanth&repo=ML-Prediction-System&theme=radical" />
+</a>
+
 </p>
+
+---
+
+## 🔥 Project Highlights
+
+- 📈 Built **StockBuddyX** handling real-time stock data (**1000+ data points, <300ms latency**)  
+- 🤖 Developed **AutoFormAI** reducing manual input effort by **60–70%**  
+- 🧠 Created ML system with **85–92% prediction accuracy**  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Navilkanth&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navilkanth&theme=radical" height="165" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Navilkanth&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navilkanth&theme=radical" height="165" />
 </p>
 
 ---
 
-## 💻 Languages
+## 💻 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navilkanth&layout=compact&theme=radical" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navilkanth&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navilkanth&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+
+- 🏆 Secured **3rd Prize** in Project Expo for *EduGen AI*  
+- 🚀 Recognized for **scalable system design & real-world problem-solving**  
+
+---
+
+## 📈 Currently Learning
+
+- Microservices Architecture  
+- Advanced System Design  
+- DSA for Product Companies  
 
 ---
 
 ## 📬 Connect with Me
-📧 Email: [navilkanth934@gmail.com](mailto:navilkanth934@gmail.com)  
-💼 LinkedIn: [Navilkanth J](https://www.linkedin.com/)  
-💻 GitHub: [github.com/Navilkanth](https://github.com/Navilkanth)
+
+📧 Email: navinkanth934@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/navilkanth-j-70124b299  
+💻 GitHub: https://github.com/Navilkanth  
 
 ---
 
